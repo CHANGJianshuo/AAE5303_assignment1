@@ -329,7 +329,12 @@ The pre-built image is optimized for ROS 2, ensuring all dependencies and enviro
 
 ## 6. Reflection (3–5 sentences)
 
-_[Write 3–5 thoughtful sentences here. For example: what you learned about configuring robotics environments, what surprised you, what you’d do differently next time, and how confident you feel about debugging ROS/Python issues now.]_
+_[I think the two most important takeaways from this assignment are that I gained a deeper understanding of Docker and Cursor, and I can now use them effectively.  
+Cursor, in particular, surprised me with its strong problem-solving capabilities.  
+Looking back on how I completed this assignment, AI helped me a great deal along the way.  
+However, there were moments when I should have slowed down, taken the time to learn the relevant concepts, and thought through the problems myself before following AI’s suggestions—this would have given me a deeper grasp of the knowledge and helped me finish tasks more efficiently.  
+For example, using Cursor’s Dockerfile-based approach to build the image led me down a detour; if I had first asked AI about the different ways to complete the task and which one was better, I might have avoided that mistake.  
+Cursor is excellent—it can keep writing code until the task is done, and in many cases, clicking through its suggestions solves the problem. But I believe I should slow down and examine Cursor’s solutions more carefully; sometimes, temporary slowness leads to overall speed. I also need to learn when to work quickly and when to take a more deliberate approach.]_
 
 ---
 
@@ -344,7 +349,7 @@ _[CHANG Jianshuo]_
 _[25043804g]_
 
 **Date:**  
-_[2026]_
+_[2026-1-23]_
 
 ---
 
